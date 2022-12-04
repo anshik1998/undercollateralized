@@ -1,0 +1,6 @@
+{
+    "solidity.defaultCompiler": "remote",
+    "solidity.remappings": [
+        "@openzeppelin/=/home/anshik/.brownie/packages/OpenZeppelin/openzeppelin-contracts@4.8.0"
+    ]
+}
